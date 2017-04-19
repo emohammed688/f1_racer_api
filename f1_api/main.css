@@ -1,0 +1,7 @@
+.top-header td {
+     border: none !important;
+}
+
+.top-header input {
+     padding-left: 5px;
+}
